@@ -1,1 +1,4 @@
-# test_task_markus
+npm i
+npm run build
+npm start
+
